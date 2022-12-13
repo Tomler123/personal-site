@@ -87,6 +87,14 @@ hr{
   width: 25%;
   float: right;
   margin-left: 30px;
+  background-color: rgb(70, 193, 170);
+}
+
+.university-img{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .icon{
